@@ -1,5 +1,5 @@
 # ULISSE
-## Soft Skills Extraction from _Curricula_
+## Soft Skills Extraction from _Curricula_ and _Trainin Offers_
 
 The aim of this task is to extract soft skills from a set of curricula provided by the ULISSE partners.
 
@@ -18,11 +18,5 @@ The main phases are:
 ### Data Architecture
 
 - `input` folder: contains all the external files input to the process
-    The input folders is made of one folder per Country:
-    - `Spain`
-    - `Italy`
-    - `Portugal`
-    - `Latvia`
-    
 - `interim` folder: contains files processed during each activity. The nomenclature is the following:
     - (output)\[input\]name
